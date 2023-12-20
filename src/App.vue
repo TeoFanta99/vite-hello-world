@@ -9,7 +9,7 @@ import AppTitle from './components/AppTitle.vue'
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
   </div>
-  <AppTitle msg="La mia prima app con Vite!" />
+  <AppTitle />
 </template>
 
 <style scoped>

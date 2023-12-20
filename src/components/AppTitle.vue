@@ -1,15 +1,9 @@
-<script setup>
-import { ref } from 'vue'
+<script>
 
-defineProps({
-    msg: String,
-})
-
-const count = ref(0)
 </script>
 
 <template>
-    <h1>{{ msg }}</h1>
+    <h1>La mia prima app con Vite!</h1>
 </template>
 
 <style scoped>
